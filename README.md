@@ -8,13 +8,13 @@ the two JSON files.  The answer is then computed by running `crunch.py`
 
 Results on 3 Nov '14: 
 
-    [(39, u'Treasure of the Rotted Gallows'),
-     (28, u'Treasure of the Tangled Keepsake'),
-     (27, u'Treasure of the Eternal Alliance'),
-     (23, u"Treasure of the Summit's Peak"),
-     (22, u"Treasure of the Mender's Palm"),
-     (20, u'Treasure of the Forged Fury'),
-     (18, u'Treasure of the Onyx Eye'),
-     (16, u"Treasure of the Cannon's Fuse"),
-     (13, u'Treasure of the Elemental Trophy'),
-     (6, u'Treasure of the Fractured Prism')]
+    [(6.75, u'Treasure of the Eternal Alliance'),
+     (5.75, u"Treasure of the Summit's Peak"),
+     (5.6, u'Treasure of the Tangled Keepsake'),
+     (5.5, u"Treasure of the Mender's Palm"),
+     (5.0, u'Treasure of the Forged Fury'),
+     (4.875, u'Treasure of the Rotted Gallows'),
+     (4.5, u'Treasure of the Onyx Eye'),
+     (4.0, u"Treasure of the Cannon's Fuse"),
+     (2.6, u'Treasure of the Elemental Trophy'),
+     (2.0, u'Treasure of the Fractured Prism')]
