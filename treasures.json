@@ -1,0 +1,67 @@
+{
+    "Treasure of the Fractured Prism": {
+        "Dragon Knight": "2", 
+        "Witch Doctor": "1", 
+        "Invoker": "1"
+    }, 
+    "Treasure of the Cannon's Fuse": {
+        "Meepo": "2", 
+        "Antimage": "2", 
+        "Invoker": "2", 
+        "Slark": "1"
+    }, 
+    "Treasure of the Eternal Alliance": {
+        "Gyrocopter": "3", 
+        "Puck": "3", 
+        "Phantom Lancer": "3", 
+        "Templar Assassin": "3"
+    }, 
+    "Treasure of the Forged Fury": {
+        "Magnus": "1", 
+        "Outworld Devourer": "2", 
+        "Naga Siren": "2", 
+        "Spectre": "3"
+    }, 
+    "Treasure of the Summit's Peak": {
+        "Vengeful Spirit": "3", 
+        "Wraith King": "2", 
+        "Phantom Assassin": "2", 
+        "Templar Assassin": "2"
+    }, 
+    "Treasure of the Tangled Keepsake": {
+        "Elder Titan": "3", 
+        "Queen of Pain": "3", 
+        "Nyx Assassin": "3", 
+        "Lina": "2", 
+        "Storm Spirit": "2"
+    }, 
+    "Treasure of the Mender's Palm": {
+        "Puck": "2", 
+        "Windranger": "3", 
+        "Dark Seer": "3", 
+        "Nature's Prophet": "1"
+    }, 
+    "Treasure of the Elemental Trophy": {
+        "Bounty Hunter": "1", 
+        "Disruptor": "1", 
+        "Queen of Pain": "1", 
+        "Nature's Prophet": "3", 
+        "Naga Siren": "2"
+    }, 
+    "Treasure of the Rotted Gallows": {
+        "Treant Protector": "3", 
+        "Chaos Knight": "2", 
+        "Clockwerk": "2", 
+        "Riki": "1", 
+        "Death Prophet": "3", 
+        "Sven": "3", 
+        "Drow Ranger": "2", 
+        "Lion": "2"
+    }, 
+    "Treasure of the Onyx Eye": {
+        "Silencer": "3", 
+        "Batrider": "3", 
+        "Outworld Devourer": "2", 
+        "Death Prophet": "1"
+    }
+}
