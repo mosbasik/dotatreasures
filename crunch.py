@@ -17,17 +17,20 @@ for treasure in treasures:
 heroes = {x: heroes[x] for x in heroes if x in heroes_with_treasures}
 
 # initialize scoring dictionary
-treasure_score = {x: 0 for x in treasures}
+treasure_score = {x: [0, 0] for x in treasures}
 
 # get a value for each set by multiplying the set rating and hero rating together
 # get a value for each treasure by summing the values of its sets
 # store these values in the scoring dictionary
 for treasure in treasure_score:
     for hero in treasures[treasure]:
-        treasure_score[treasure] += int(treasures[treasure][hero]) * int(heroes[hero])
+        treasure_score[treasure][1] += 1 # increment number of sets in treasure
+        treasure_score[treasure][0] += int(treasures[treasure][hero]) * int(heroes[hero])
+
+print treasure_score
 
 # make a list out of the scoring dictionary
-score = [(treasure_score[x], x) for x in treasure_score]
+score = [((treasure_score[x][0]+0.0) / treasure_score[x][1], x) for x in treasure_score]
 
 # sort it by value
 score.sort(key=lambda tup: tup[0], reverse=True)
